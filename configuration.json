@@ -1,0 +1,7 @@
+ {
+    "files":{
+        "train_file":"train.csv",
+        "val_file":"val.csv",
+		"test_file":"test_no_label.csv"
+		}
+}
